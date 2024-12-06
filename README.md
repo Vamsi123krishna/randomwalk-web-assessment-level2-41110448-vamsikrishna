@@ -26,8 +26,6 @@
    
 5) Share the repository link into the Google Form: https://forms.gle/9bKzGpKyAr1g1vpF7
 
-##Demo Video Link
- https://drive.google.com/file/d/1_nvaWFPrrwVuPW2Pqk-GQCM82HO9uQ9Y/view?usp=sharing
 
 ## Problem Statement: Tic Tac Toe Game:
 
@@ -80,3 +78,8 @@ Develop a web-based Tic Tac Toe game for two players that allows them to take tu
 3) Source code with comments explaining the logic and structure for future reference or modifications. Zip it
 
 **Push the code in HTML, CSS and JS, along with a demo video of your solution into the github repo.**
+
+
+
+## Demo Video Link
+ https://drive.google.com/file/d/1_nvaWFPrrwVuPW2Pqk-GQCM82HO9uQ9Y/view?usp=sharing
